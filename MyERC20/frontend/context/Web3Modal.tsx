@@ -7,7 +7,8 @@ import { sepolia, mainnet } from 'viem/chains'
 
 // Get projectId
 // https://cloud.walletconnect.com/app/project?uuid=665412c9-1983-4dd4-9287-db8fc0e28069
-const projectId = 'd72f1e6c7cb9b25f743a76288fe68cd7'
+// const projectId = 'd72f1e6c7cb9b25f743a76288fe68cd7'
+const projectId = '187abdc19e5ca594c944f93d1b561294'
 
 // Create the metadata object.
 const metadata = {
